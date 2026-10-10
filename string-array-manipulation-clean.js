@@ -5,7 +5,7 @@ const namesArray = trimmedInput.split(",");
 const cleanedNames = namesArray.map((name) => name.trim().toLowerCase());
 const finalString = cleanedNames.join(" | ");
 
-console.log("=== Case 1: User Data Cleaner ===");
+console.log(" <3 Case 1: User Data Cleaner <3 ");
 console.log("Input mentah :", `"${rawInput}"`);
 console.log("Setelah trim :", `"${trimmedInput}"`);
 console.log("Array nama   :", namesArray);
