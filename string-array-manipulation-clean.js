@@ -29,7 +29,7 @@ const totalPrice = activeProducts.reduce(
   0
 );
 
-console.log("\n=== Case 2: E-Commerce Product Filter ===");
+console.log("\n<3 Case 2: E-Commerce Product Filter <3");
 console.log("Produk aktif      :", activeProducts);
 console.log("Nama produk aktif :", activeProductNames);
 console.log("Total harga aktif :", totalPrice);
